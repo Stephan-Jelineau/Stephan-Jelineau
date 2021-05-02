@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, I am in training as a web application developer
 - ✍ I’m currently learning back-end development, I just finished learning the basics of the front-end
 - 🌎 I post all the final projects during my training in my repository
-- ✉ You can contact me at this email address s.jel@hotmail.com
+- ✉ You can contact me at this email address st.jelineau@gmail.com
 
 
 Thank you for taking the time to read these few lines
