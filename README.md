@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Stephan-Jelineau
-- 👀 I am in training as a web application developer
-- ✍ I’m currently learning back-end development, I just finished learning the basics of the front-end
+- 👀 I am in training as a web application developer until December 2021
 - 🌎 I post as much as possible projects during my training in my repository
 - ✉ You can contact me at this email address st.jelineau@gmail.com
 
